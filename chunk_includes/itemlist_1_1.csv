@@ -1,0 +1,4 @@
+id,cond,np1,np2,coref,vclass,verb,list,prompt,prompt-html,
+item1.21,cond1.1,f,m,NA,ae,"loben",1,"Julia lobte Linus. ...",Julia lobte Linus. &hellip,
+item1.21,cond1.4,m,f,NA,ap,"befreien",1,"Linus befreite Julia. ...",Linus befreite Julia. &hellip,
+item1.22,cond1.2,m,f,NA,ae,"belohnen",1,"Benjamin belohnte Sarah. ...",Benjamin belohnte Sarah. &hellip,
